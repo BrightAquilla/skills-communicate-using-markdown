@@ -1,5 +1,4 @@
 # <header>
-# This is the first change
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -64,6 +63,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+2. ![Link to support git status](https://github.com/search?q=status%20page&type=repositories)
+3. ![lint to support GitHub code of conduct](https://github.com/search?q=code+of+conduct&type=repositories)
+4. ![Link GitHub License](https://github.com/search?q=license&type=repositories)
+5. # **It's been amazing to learn _markdown language_ with GitHub**
 
 <footer>
 
